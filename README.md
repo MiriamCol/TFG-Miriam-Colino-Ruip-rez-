@@ -4,7 +4,8 @@ This repository contains the code used on the final degree thesis by Miriam Coli
 
 The dataset used for this proyect was CSE-CIC-IDS2018 (https://registry.opendata.aws/cse-cic-ids2018/). 4 types of attacks were analyzed: Benign, Brute Force - Web, Brute Force - XSS and SQL injection
 
-TFGMiriamColinoRuiperez.ipynb is a Jupyter Notebook file in which the following parts can be found:
+TFGMiriamColinoRuiperez.ipynb is a Jupyter Notebook file in which in several Machine Learning and Deep Learning models are built, trained and tested and its ability to classify the 4 types of attacks is analyzed. 
+The file consists of the following parts: 
 - Data filtering
 - SMOTE and separation in set train and test
 - SGD model
