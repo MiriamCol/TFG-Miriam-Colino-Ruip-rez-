@@ -1,6 +1,6 @@
 # TFG-Miriam-Colino-Ruiperez
 
-This repository contains the code used on the final degree thesis by Miriam Colino Ruipérez: Detection of network and information systems attacks using Deep Learning techniques on the year 2022/2023.
+This repository contains the code used on the final degree thesis by Miriam Colino Ruipérez: Detection of network and information systems attacks using Deep Learning techniques on the year 2022/2023 at ICAI School of Engineering.
 
 The dataset used for this proyect was CSE-CIC-IDS2018 (https://registry.opendata.aws/cse-cic-ids2018/). 4 types of attacks were analyzed: Benign, Brute Force - Web, Brute Force - XSS and SQL injection
 
